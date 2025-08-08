@@ -10,6 +10,7 @@
         <Reference Include="Mirror" HintPath="$(EXILED_REFERENCES)\Mirror.dll" Private="false" Publicize="true"/>
         <Reference Include="UnityEngine.CoreModule" HintPath="$(EXILED_REFERENCES)\UnityEngine.CoreModule.dll" Private="false"/>
         <Reference Include="CommandSystem.Core" HintPath="$(EXILED_REFERENCES)\CommandSystem.Core.dll" Private="false"/>
+        <Reference Include="AudioPlayerApi" HintPath="$(EXILED_REFERENCES)\AudioPlayerApi.dll" Private="false"/>
     </ItemGroup>
 
     <ItemGroup>

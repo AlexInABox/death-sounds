@@ -1,7 +1,7 @@
 using UnityEngine;
 using UserSettings.ServerSpecific;
 
-namespace Template;
+namespace DeathSounds;
 
 public static class Utils
 {

@@ -4,15 +4,15 @@ using LabApi.Features.Console;
 using LabApi.Loader;
 using LabApi.Loader.Features.Plugins;
 
-namespace Template;
+namespace DeathSounds;
 
 // ReSharper disable once ClassNeverInstantiated.Global
 public class Plugin : Plugin<Config>
 {
-    public override string Name { get; } = "Template";
+    public override string Name { get; } = "DeathSounds";
 
     public override string Description { get; } =
-        "Template";
+        "DeathSounds";
 
     public override string Author { get; } = "AlexInABox";
     public override Version Version { get; } = new(1, 0, 0);
